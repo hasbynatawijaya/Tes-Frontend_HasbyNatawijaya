@@ -1,0 +1,6 @@
+export const ASYNC_ACTION_START = 'ASYNC_ACTION_START';
+export const ASYNC_ACTION_FINISH = 'ASYNC_ACTION_FINISH';
+
+//User List
+export const TRANSACTION_LIST = 'TRANSACTION_LIST';
+//
